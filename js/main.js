@@ -28,3 +28,4 @@ $(document).ready(function(){
 	// });
 });
 // the doc when its ready run this funtion
+// I was here 
